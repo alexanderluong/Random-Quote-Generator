@@ -1,0 +1,48 @@
+/* Fonts from Google Fonts - more at https://fonts.google.com */
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:400,700');
+@import url('https://fonts.googleapis.com/css?family=Merriweather:400,700');
+
+html, body {
+  height: 100%;
+  font-family: 'Nunito', sans-serif;
+  color: #2A3132; 
+}
+
+.container {
+  min-height: 100%;
+}
+
+h1 {
+  font-weight: bold;
+}
+
+hr {
+  border-color: #2A3132;
+}
+
+body {
+  background-color: white;
+}
+
+#quoteBox {
+  border: 5px;
+  border-color: #dddddd;
+  border-style: solid;
+  border-radius: 25px;
+  background-color:  #2A3132;
+  font-size: 20px;
+  color: white;
+  height: auto;
+  margin: 3%;
+  padding: 2%;
+}
+
+#quoteButton {
+  margin: 0 auto;
+  outline: 0;
+  box-shadow: none;
+  background-color: #2A3132;
+  border-color: #dddddd;
+  border-width: 2px;
+  color: white;
+}
