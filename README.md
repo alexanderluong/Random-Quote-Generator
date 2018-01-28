@@ -11,3 +11,6 @@ Idea came from a freeCodeCamp [challenge](https://www.freecodecamp.org/challenge
 
 ## Preview
 ![Preview of webpage](Preview.png)
+
+## Acknowledgments
+* Coding was done on [Thimble by Mozilla](https://thimble.mozilla.org/)
