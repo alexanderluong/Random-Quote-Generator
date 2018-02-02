@@ -9,7 +9,6 @@ html, body {
 }
 
 .container {
-  padding-top: 3%;
   min-height: 100%;
 }
 
@@ -38,7 +37,11 @@ body {
   padding: 2%;
 }
 
-#quoteButton {
+#twitterButton {
+  pointer-events: none;
+}
+
+.button, .button:hover {
   margin: 0 auto;
   outline: 0;
   box-shadow: none;
