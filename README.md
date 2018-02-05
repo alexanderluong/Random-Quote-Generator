@@ -7,7 +7,7 @@ Idea came from a freeCodeCamp [challenge](https://www.freecodecamp.org/challenge
 * CSS
 * Javascript
 * jQuery
-* Bootstrap 3.3.7
+* Bootstrap 4
 
 ## Preview
 ![Preview of webpage](Preview.png)
